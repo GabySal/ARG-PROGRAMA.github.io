@@ -1,0 +1,53 @@
+
+h1 {font-family: Pacifico;
+        color: rgb(38, 79, 155);
+        border: 10px solid;
+        background-color: rgb(196, 250, 255);
+        font-size: 250% ;
+        width: 500px;
+        box-shadow: 10px 10px rgb(47, 64, 255);
+        text-align: center; 
+        border-radius: 25% ;
+        margin-top: 40px;}
+
+h2 {font-family: Pacifico;
+    color: rgb(38, 79, 155);
+    border:10px solid;
+    background-color: rgb(196, 250, 255);
+    font-size: 200% ;
+    width: 300px;
+    box-shadow: 10px 10px rgb(47, 64, 255);
+    text-align: center; 
+    border-radius: 25% ;}
+
+
+body {padding-bottom: 40px;
+padding-top: 40px;}
+
+ 
+img {border: 20px solid; 
+    border-color: rgb(38, 79, 155);
+    box-shadow: 10px 10px rgb(47, 64, 255);
+    background-color: rgb(196, 250, 255);
+    border-radius: 25% ;
+    background-image: "https://www.modelos-de-curriculum.com/wp-content/uploads/2020/10/foto-para-curriculum.jpg";} 
+
+
+
+table {border: 20px solid;
+    border-color: rgb(47, 64, 255);
+    text-align: center;
+    padding: 40px 40px 40px 40px;
+    border-radius: 5% ;
+    background: linear-gradient(rgba(0, 128, 0, 0.774),rgba(0, 0, 255, 0.377));}
+
+ul {font-size:x-large; color:  rgb(5, 83, 5) ;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: left;
+    margin-left: 120px}
+
+div {font-family: Pacifico;
+    font-size: xx-large;}
+
+  
